@@ -1,1 +1,3 @@
-This is the first directory under my ALX repo
+my first readme
+
+This readme file waas updated using the github interface
